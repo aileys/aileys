@@ -33,7 +33,7 @@ I love working on projects that combine **quantitative analysis** with **user ex
 ### 📫 Connect With Me
 📍 Austin, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/ailey-shollenberger)  
-📧 [aileyshollenberger@utexas.edu](mailto:aileyshollenberger@utexas.edu)
+📧 [ailey@utexas.edu](mailto:ailey@utexas.edu)
 <!--
 **aileys/aileys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
