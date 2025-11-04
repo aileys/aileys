@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I'm Ailey Shollenberger
+I'm Ailey Shollenberger
 
 🎓 **Informatics Major** at *The University of Texas at Austin*  
 💡 Concentration in **Human-Centered Data Science**  
