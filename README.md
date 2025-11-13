@@ -12,7 +12,7 @@ I'm **Ailey Shollenberger**
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **British Airways Data Science Project** | End-to-end data science workflow analyzing booking completion predictions and sentiment from Skytrax customer reviews. Includes ML modeling, web scraping, NLP, and data visualization. | Python, Pandas, scikit-learn, BeautifulSoup, NLTK, WordCloud, Matplotlib |
+| **[British Airways Data Science Project](https://github.com/aileys/british-airways-data-science-forage)** | End-to-end data science workflow analyzing booking completion predictions and sentiment from Skytrax customer reviews. Includes ML modeling, web scraping, NLP, and data visualization. | Python, Pandas, scikit-learn, BeautifulSoup, NLTK, WordCloud, Matplotlib |
 | **CPI vs PPI Inflation Trends** | Exploratory data analysis of U.S. inflation trends using CPI and PPI datasets (2000–2021) to compare consumer vs. producer price movement over time. | Python, Pandas, Matplotlib, Seaborn |
 
 ---
