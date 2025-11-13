@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="BA_modern_banner.png" width="100%">
+</p>
 ## Hi there 👋
 
 I'm Ailey Shollenberger
