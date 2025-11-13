@@ -1,50 +1,46 @@
-## Hi there 👋
+Hi there 👋  
+I'm **Ailey Shollenberger**
 
-I'm Ailey Shollenberger
-
-🎓 **Informatics Major** at *The University of Texas at Austin*  
-💡 Concentration in **Human-Centered Data Science**  
-📈 Passionate about **data analytics, machine learning, and human-centered computing**  
-🌍 Minor in **Business Foundations**
+🎓 **Informatics Major** at The University of Texas at Austin  
+💡 **Concentration:** Human-Centered Data Science  
+🌍 **Minor:** Business Foundations  
+📊 **Interests:** Data analytics, machine learning, human-centered computing, and quantitative storytelling  
 
 ---
 
-### 💼 Featured Projects
+# 💼 Featured Projects
+
 | Project | Description | Tools |
-|----------|--------------|--------|
-| [**CPI vs PPI Inflation Trends**](https://github.com/aileys/cpi-ppi-inflation-trends) | Data analysis of U.S. inflation trends using CPI and PPI datasets from the Bureau of Labor Statistics (2000–2021). | Python, Pandas, Matplotlib, Seaborn |
+|--------|-------------|-------|
+| **British Airways Data Science Project** | End-to-end data science workflow analyzing booking completion predictions and sentiment from Skytrax customer reviews. Includes ML modeling, web scraping, NLP, and data visualization. | Python, Pandas, scikit-learn, BeautifulSoup, NLTK, WordCloud, Matplotlib |
+| **CPI vs PPI Inflation Trends** | Exploratory data analysis of U.S. inflation trends using CPI and PPI datasets (2000–2021) to compare consumer vs. producer price movement over time. | Python, Pandas, Matplotlib, Seaborn |
 
 ---
 
-### ⚙️ Technical Skills
+# ⚙️ Technical Skills
+
 **Programming:** Python, R, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup, NLTK  
 **Techniques:** Data Cleaning, Machine Learning, Text Analysis, Statistical Modeling, Data Visualization  
-**Tools:** Jupyter Notebook, Git/GitHub, Excel,  
+**Tools:** Jupyter Notebook, Git/GitHub, Excel  
 
 ---
 
-### 🧩 About Me
-I’m passionate about uncovering meaningful insights through data and creating intuitive, human-centered solutions. My projects blend **data science, analytics, and communication**, emphasizing clarity and real-world application.  
-I love working on projects that combine **quantitative analysis** with **user experience and social impact**.
+# 🧩 About Me
+
+I’m passionate about uncovering meaningful insights through data and designing solutions with a human-centered mindset. My work combines:
+
+- 📊 Quantitative analysis  
+- 🧠 ML & NLP techniques  
+- 📝 Clear communication  
+- 🌎 Real-world impact  
+
+Whether I’m analyzing user behavior, exploring economic trends, or building predictive models, I focus on **clarity, empathy, and actionable results**.
 
 ---
 
-### 📫 Connect With Me
+# 📫 Connect With Me
+
 📍 Austin, TX  
-🔗 [LinkedIn](https://www.linkedin.com/in/ailey-shollenberger)  
-📧 [ailey@utexas.edu](mailto:ailey@utexas.edu)
-<!--
-**aileys/aileys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **LinkedIn:** *www.linkedin.com/in/ailey-shollenberger*  
+📧 **Email:** ailey@utexas.edu  
