@@ -14,7 +14,7 @@ I'm **Ailey Shollenberger**
 |--------|-------------|-------|
 | **[British Airways Data Science Project](https://github.com/aileys/british-airways-data-science-forage)** | End-to-end data science workflow analyzing booking completion predictions and sentiment from Skytrax customer reviews. Includes ML modeling, web scraping, NLP, and data visualization. | Python, Pandas, scikit-learn, BeautifulSoup, NLTK, WordCloud, Matplotlib |
 | **[CPI vs PPI Inflation Trends](https://github.com/aileys/cpi-ppi-inflation-trends)** | Exploratory data analysis of U.S. inflation trends using CPI and PPI datasets (2000–2021) to compare consumer vs. producer price movement over time. | Python, Pandas, Matplotlib, Seaborn |
-
+| **[Obesity Risk Prediction using BRFSS](https://github.com/aileys/obesity-risk-prediction-brfss)** | Machine learning model predicting obesity risk using survey health data (BRFSS). Includes data preprocessing, feature engineering, logistic regression, cross-validation, and model evaluation with F1-score, accuracy, and confusion matrix. | Python, Pandas, scikit-learn, NumPy, Statsmodels, Matplotlib, Seaborn, Jupyter |
 ---
 
 # ⚙️ Technical Skills
