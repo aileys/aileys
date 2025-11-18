@@ -20,9 +20,10 @@ I'm **Ailey Shollenberger**
 # ⚙️ Technical Skills
 
 **Programming:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup, NLTK  
-**Techniques:** Data Cleaning, Machine Learning, Text Analysis, Statistical Modeling, Data Visualization  
-**Tools:** Jupyter Notebook, Git/GitHub, Excel  
+**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels, BeautifulSoup, NLTK  
+**Techniques:** Data Cleaning, Feature Engineering, Machine Learning, Text Analysis, Statistical Modeling, Data Visualization, Cross-Validation  
+**Tools:** Jupyter Notebook, Git/GitHub, Excel, WordCloud, VS Code, Tableau (learning)  
+ 
 
 ---
 
